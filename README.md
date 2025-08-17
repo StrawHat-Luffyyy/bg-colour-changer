@@ -3,10 +3,6 @@
 A simple React app that changes the background color at the click of a button.  
 Built with **React + Vite** for fast development ⚡
 
----
-
-## 🚀 Demo  
-🔗 [Live Demo](#) *(Deploy on Vercel/Netlify and drop the link here)*  
 
 ---
 
@@ -17,11 +13,6 @@ Built with **React + Vite** for fast development ⚡
 
 ---
 
-## 📸 Screenshot
-![App Screenshot](./screenshot.png)  
-*(Add a screenshot or GIF of your app here)*
-
----
 
 ## 🛠️ Tech Stack
 - **React**
